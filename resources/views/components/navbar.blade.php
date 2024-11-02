@@ -84,6 +84,13 @@
               <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-400 hover:bg-gray-700 hover:text-white">Settings</a>
               <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-400 hover:bg-gray-700 hover:text-white">Sign out</a>
           </div>
+
+          <ul>
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a href="/login" classs="nav-link">login</a>
+            <li>
+          </ul>
       </div>
   </div>
 </nav>
